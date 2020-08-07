@@ -37,7 +37,7 @@ Select a file and run it using the "Run" menu.
 
 ### *.SPR
 
-Sprite files. It is a proprietary format I've invented to easily store and retrieve sprites used in games.
+Sprite files. It is a proprietary format of my own to easily store and retrieve sprites used in games.
 
 ### A.BAS
 
