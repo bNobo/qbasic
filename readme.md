@@ -16,6 +16,8 @@ Start DOSBox and mount a drive pointing to your local folder :
 Z:\>mount d: c:\qbasic
 ```
 
+![mount](./captures/mount.jpg)
+
 Then change drive to "d:" and run "QB.EXE" :
 
 ```batch
